@@ -29,7 +29,7 @@ Prerequisites:
 # Author
 Riquelmo Afonso Avelar Ferreira
 
-https://www.linkedin.com/in/riquelmo-afonso-avelar-ferreira-a28619230/
+https://www.linkedin.com/in/riquelmo-afonso-avelar-ferreira-df5183/?locale=en_US
 
 
  
