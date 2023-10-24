@@ -1,3 +1,38 @@
+# Português:
+# Dashboard de Vendas no Tkinter
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/RiquelmoFerreira/Tkinter_Dashboard/blob/main/LICENSE)
+
+# Sobre o Projeto
+
+Esse projeto foi feito durante o treino prático do curso de Python para Análise de Dados conduzido por Usando Python
+
+O projeto é um treino prático para criação de Dashboards de Vendas usando a Biblioteca Tkinter, os números usados são fictícios pois o foco foi apenas na parte gráfica, nesse projeto foi usada a linguagem Python e suas Bibliotecas Tkinter e Matplotlib no ambiente do Jupyter Notebook.
+
+## Visão Geral do Projeto
+![VisaoGeral](https://github.com/RiquelmoFerreira/Tkinter_Dashboard/blob/main/Overview.png)
+
+## Dashboard de Vendas
+![Dashboard](https://github.com/RiquelmoFerreira/Tkinter_Dashboard/blob/main/Dashboard.png)
+
+# Tecnologias e Bibliotecas
+- Python para Análise de Dados
+- Tkinter
+- Matplotlib
+
+# Rode o Projeto:
+Pré-Requisitos:
+- Python 3.11.0 ou superior
+- Jupyter Notebook
+- Tkinter
+- Matplotlib
+
+# Autor
+Riquelmo Afonso Avelar Ferreira
+
+https://www.linkedin.com/in/riquelmo-afonso-avelar-ferreira-df5183/
+
+#
+
 # English: 
 # Tkinter Sales Dashboard
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/RiquelmoFerreira/Tkinter_Dashboard/blob/main/LICENSE)
@@ -32,40 +67,6 @@ Riquelmo Afonso Avelar Ferreira
 
 https://www.linkedin.com/in/riquelmo-afonso-avelar-ferreira-df5183/?locale=en_US
 #
-
-# Português:
-# Dashboard de Vendas no Tkinter
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/RiquelmoFerreira/Tkinter_Dashboard/blob/main/LICENSE)
-
-# Sobre o Projeto
-
-Esse projeto foi feito durante o treino prático do curso de Python para Análise de Dados conduzido por Usando Python
-
-O projeto é um treino prático para criação de Dashboards de Vendas usando a Biblioteca Tkinter, os números usados são fictícios pois o foco foi apenas na parte gráfica, nesse projeto foi usada a linguagem Python e suas Bibliotecas Tkinter e Matplotlib no ambiente do Jupyter Notebook.
-
-## Visão Geral do Projeto
-![VisaoGeral](https://github.com/RiquelmoFerreira/Tkinter_Dashboard/blob/main/Overview.png)
-
-## Dashboard de Vendas
-![Dashboard](https://github.com/RiquelmoFerreira/Tkinter_Dashboard/blob/main/Dashboard.png)
-
-# Tecnologias e Bibliotecas
-- Python para Análise de Dados
-- Tkinter
-- Matplotlib
-
-# Rode o Projeto:
-Pré-Requisitos:
-- Python 3.11.0 ou superior
-- Jupyter Notebook
-- Tkinter
-- Matplotlib
-
-# Autor
-Riquelmo Afonso Avelar Ferreira
-
-https://www.linkedin.com/in/riquelmo-afonso-avelar-ferreira-df5183/
-
 
  
 
